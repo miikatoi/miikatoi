@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+About Me:
+
+Software Developer / AI Researcher
+Currently focused on Document AI and RAG applications, with side projects in respiratory sound classification research.
+Previously worked on industrial automation and quality assurance software/hardware.
+
 <!--
 **miikatoi/miikatoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
